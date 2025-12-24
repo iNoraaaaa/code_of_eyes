@@ -1,0 +1,7 @@
+{
+  "name": "Algorithmic Re-vision of Nature",
+  "description": "Deconstruct natural images into mathematical functions and geometric grids, exploring the hidden order of the physical world.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
